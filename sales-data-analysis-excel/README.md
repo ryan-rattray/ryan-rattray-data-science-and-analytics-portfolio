@@ -1,6 +1,13 @@
 # Sales Data Analysis
 
-## Analyze a dataset of sales transactions in Excel to identify trends and patterns. Create charts and graphs to visualize total sales, sales by product category, and sales by region.
+## Description
+A brief analysis of sales data using Excel.
+
+## Objectives
+Analyze a dataset of sales transactions in Excel to identify trends and patterns. Create charts and graphs to visualize total sales, sales by product category, and sales by region.\
+
+## Data Source
+https://www.exceldemy.com/learn-excel/sample-data/ ExcelDemy
 
 ### Skills Covered: 
 - Data Import and Cleaning
@@ -9,5 +16,6 @@
 - Pivot Tables
 - Data Visualization (Charts and Graphs)
 - Conditional Formatting
+
 
 
