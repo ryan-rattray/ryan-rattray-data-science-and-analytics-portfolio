@@ -9,7 +9,7 @@ Analyze a dataset of sales transactions in Excel to identify trends and patterns
 ## Data Source
 [Kaggle Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
-### Skills Covered: 
+## Skills Covered: 
 - Data Import and Cleaning
 - Data Sorting and Filtering
 - Use of Formulas and Functions (SUM, AVERAGE, VLOOKUP)
